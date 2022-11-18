@@ -22,5 +22,5 @@ Java
 
 ✔ Desenvolvimento 🛠
 
-* Natanael de Aguiar Paixão
-* Ribamiltom Bezerra de Lima
+* Natanael Paixão
+* Ribamiltom Lima
