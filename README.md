@@ -13,9 +13,11 @@ Todo pedido tem um cliente, um valor em reais (R$), data do pedido e horário em
 Todo pedido poderá ser entregue no endereço do cliente (é opcional) a pedido do mesmo, com um acréscimo de R$ 10,00; ou pode ser comprado presencialmente na lanchonete
 
 ✔ Utilitarios
+
 Eclipse
 
 ✔ Tecnologias Implementadas 🛠
+
 Java
 
 ✔ Desenvolvimento 🛠
