@@ -2,7 +2,8 @@
 
 Projeto desenvolvido na diciplina de Laboratorio de Linguagem de programação 2.
 
-✔ Professor:
+✔ Professor
+
 Daniel Marques (https://github.com/danielmarquesvg) 
 
 ✔  Orientações 
