@@ -1,4 +1,4 @@
-## 📍 Projeto Lanchone BUCHO CHEIO
+## 📍 Projeto Lanchonete BUCHO CHEIO
 
 
 ✔ Sobre
